@@ -1,0 +1,1956 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AnswerApp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb5bea77-7a5e-4700-8939-58a1f9f9be98" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AnswerApp_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/AnswerApp_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AnswerApp_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/AnswerApp_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f3ba7b3a-5c34-471a-b480-743a5a7bebad.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f3ba7b3a-5c34-471a-b480-743a5a7bebad.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_8_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/AnswerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/AnswerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/CourseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/CourseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/LoginReginsterHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/LoginReginsterHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/QuesHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/QuesHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/AnswerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/AnswerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/CourseDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/CourseDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/QuesDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/QuesDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/UserDaoInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/UserDaoInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/AnswerRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/AnswerRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Chapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Chapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceQues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceQues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceRecordSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceRecordSummary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/CourseBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/CourseBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/JudgmentQues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/JudgmentQues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/PhotosBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/PhotosBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/RecordSummary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/RecordSummary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Session.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/UserBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/UserBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginAjaxReqFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginAjaxReqFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/AnswerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/AnswerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/QuesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/QuesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/AnswerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/AnswerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/CourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/QuesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/QuesServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/springConfig/ApplicationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/springConfig/ApplicationConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/springConfig/Interceptor/ProcessInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/springConfig/Interceptor/ProcessInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/springConfig/WebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/springConfig/WebAppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/springConfig/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/springConfig/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.04c10aa09176e4a70c6a69960fd717d5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.04c10aa09176e4a70c6a69960fd717d5.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.07044d1462c2a4fe5ed0d641e76c3e19.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.07044d1462c2a4fe5ed0d641e76c3e19.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0933498932fd702645658f824e78265e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0933498932fd702645658f824e78265e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0a90833ac67e7eceb878a460969e8d91.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0a90833ac67e7eceb878a460969e8d91.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0d4ea3ab197915988fc12bae4e9d81d2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0d4ea3ab197915988fc12bae4e9d81d2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0d6596dcc1630e2d7f5cf9eef2e61a1e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.0d6596dcc1630e2d7f5cf9eef2e61a1e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.128b0c6ff14ad69ab3f9c2cb899af82e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.128b0c6ff14ad69ab3f9c2cb899af82e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.1499a8041c0d341ab7ff129c2894aafc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.1499a8041c0d341ab7ff129c2894aafc.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.187945c1922cc16fce7031a8e9f7fe6e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.187945c1922cc16fce7031a8e9f7fe6e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.1b79fd47007ac23032f071fa2281e50b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.1b79fd47007ac23032f071fa2281e50b.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.1ee1f75d8b7b66a1f7c8262d2e378a67.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.1ee1f75d8b7b66a1f7c8262d2e378a67.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.221b6b880fb042ff39381fe278f18b3f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.221b6b880fb042ff39381fe278f18b3f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.22d8411060bef18d356fe559dd0cc5bb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.22d8411060bef18d356fe559dd0cc5bb.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.2fc0c6fe26c67185e315f20f103cd8e2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.2fc0c6fe26c67185e315f20f103cd8e2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.31eb52a7687f51a6d81ca11e444d0171.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.31eb52a7687f51a6d81ca11e444d0171.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.33eaa999a8bcfddc54b9c079a30a0994.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.33eaa999a8bcfddc54b9c079a30a0994.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.3429e5f9e4bb972d88a44085728cb910.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.3429e5f9e4bb972d88a44085728cb910.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.35c79bc73fafa6a6d2e5197a978d3aa9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.35c79bc73fafa6a6d2e5197a978d3aa9.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.3c325384e6f5be8aae08ff3928ba7a5d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.3c325384e6f5be8aae08ff3928ba7a5d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.4cfa42189c9f2162c7964584e69ff095.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.4cfa42189c9f2162c7964584e69ff095.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.539de76abf5845bfb258af00e1b56e4d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.539de76abf5845bfb258af00e1b56e4d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.548212d9a125cde4f4d610cfb9a4a400.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.548212d9a125cde4f4d610cfb9a4a400.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.59d61cf8f259ee031c39695a4554213d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.59d61cf8f259ee031c39695a4554213d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.5be0ced4e5097c218349b3986245818a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.5be0ced4e5097c218349b3986245818a.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.5fdcd124e2d43054fabbcac96d8e9ad4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.5fdcd124e2d43054fabbcac96d8e9ad4.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.60504ba88e3c4b32f24ad341f9bfa93e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.60504ba88e3c4b32f24ad341f9bfa93e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.61edaaca5eaa559bcc58f87e0a9cddc9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.61edaaca5eaa559bcc58f87e0a9cddc9.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.645f7a86de67def197e218fafe190d76.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.645f7a86de67def197e218fafe190d76.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.6e91db041ec9a63ff946c15e4bee2aa0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.6e91db041ec9a63ff946c15e4bee2aa0.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.71870db531cb31cab67a831972791356.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.71870db531cb31cab67a831972791356.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.761acb520e3d3fb2969b7f4e5e063c2e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.761acb520e3d3fb2969b7f4e5e063c2e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.79f98d87f8d2c2af95982a64f6891094.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.79f98d87f8d2c2af95982a64f6891094.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.81bb90b919e854c94613eebc2a156dd8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.81bb90b919e854c94613eebc2a156dd8.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.848b76293612aac0ec85a2cf4f98147d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.848b76293612aac0ec85a2cf4f98147d.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.8c263e8b85b3d231d036131bde516961.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.8c263e8b85b3d231d036131bde516961.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.8e01ee621b9b639880fa246d92c32d9a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.8e01ee621b9b639880fa246d92c32d9a.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.9948c615e4a7ea7de7aea583c601e115.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.9948c615e4a7ea7de7aea583c601e115.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.99b279cd4e81d1d42a4ff942f28f3160.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.99b279cd4e81d1d42a4ff942f28f3160.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a19d5c9b11bfb998011a1368e8a84b5e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a19d5c9b11bfb998011a1368e8a84b5e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a22ef4d93f0c3a8210e66dbaefc0dfea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a22ef4d93f0c3a8210e66dbaefc0dfea.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a2668ccace4a4b0a4de6520f51c278b5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a2668ccace4a4b0a4de6520f51c278b5.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a26c47267cd8f3c627a5b939c603eef6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a26c47267cd8f3c627a5b939c603eef6.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a6e0a4127bacedc814f1e113955649cb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.a6e0a4127bacedc814f1e113955649cb.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.aa989b6f5b9e285417a5c22600f88b03.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.aa989b6f5b9e285417a5c22600f88b03.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.ad7f679b794ffc1f79d3acf87fd8767f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.ad7f679b794ffc1f79d3acf87fd8767f.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b00ef07086c44518bbcee2b0aea25cdf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b00ef07086c44518bbcee2b0aea25cdf.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b257a632625cd6d96c293a53992357d0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b257a632625cd6d96c293a53992357d0.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b33baa8ebcb88289ad879e89caff60ef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b33baa8ebcb88289ad879e89caff60ef.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b8dfab5e61715f1186684d9e93633f38.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.b8dfab5e61715f1186684d9e93633f38.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.ba1e947ce7ac5581d77f77307483d59b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.ba1e947ce7ac5581d77f77307483d59b.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bbc0033d362cc5372bf7cae0d2537cd7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bbc0033d362cc5372bf7cae0d2537cd7.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bc2709941e24b06cf8ee8bfb72bf957c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bc2709941e24b06cf8ee8bfb72bf957c.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bd00197bcf2ecf2fd588c7d625a60e76.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bd00197bcf2ecf2fd588c7d625a60e76.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bec439b9c5b90fd304317dff20326002.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.bec439b9c5b90fd304317dff20326002.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c04571298ad3d0ecc9befe5ba81520ae.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c04571298ad3d0ecc9befe5ba81520ae.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c31631ef370161e5ac9fe11a4701b058.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c31631ef370161e5ac9fe11a4701b058.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c378d11b692e89accc1414d2384ed8ca.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c378d11b692e89accc1414d2384ed8ca.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c46a320cbc12a397e31099f6adffca5c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.c46a320cbc12a397e31099f6adffca5c.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.cd8f41a33d93ee6d33a670620451f549.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.cd8f41a33d93ee6d33a670620451f549.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.ce9b8e791e3b260511572fe1c7e66767.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.ce9b8e791e3b260511572fe1c7e66767.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.cf826fdcaba3e3c3b069f09798678b35.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.cf826fdcaba3e3c3b069f09798678b35.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.cfbc481c4e152ab4ad79ad4097cce149.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.cfbc481c4e152ab4ad79ad4097cce149.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.d1f2d6a7b133e31390e4fd0b98b4074b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.d1f2d6a7b133e31390e4fd0b98b4074b.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.d30c0dffc68803c24f74a1f18af9814e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.d30c0dffc68803c24f74a1f18af9814e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.dbf5f636d4d4836b86e74d07d6cbd4e2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.dbf5f636d4d4836b86e74d07d6cbd4e2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.e47e33f4e73a36a272c7b5e8f8598cb6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.e47e33f4e73a36a272c7b5e8f8598cb6.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.e6c0516c921a49de4a2fbaa889b3c376.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.e6c0516c921a49de4a2fbaa889b3c376.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.eb8ae63c83fc1ca922d9c00531c29499.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.eb8ae63c83fc1ca922d9c00531c29499.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.eedebfe77a9f50e795c4102470ebb2f9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/css/app.eedebfe77a9f50e795c4102470ebb2f9.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.003707f173eeae5d9645.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.003707f173eeae5d9645.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.009eb454a034717938c2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.009eb454a034717938c2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.01ea4307d57fc62a44ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.01ea4307d57fc62a44ae.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.02f6c8a4a90a4f02956c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.02f6c8a4a90a4f02956c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0915800df2d2caf3bd1f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0915800df2d2caf3bd1f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0cac279591017fa111ab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0cac279591017fa111ab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0ce38b96ba72bf0073f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0ce38b96ba72bf0073f9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0dc1288655e3a4960691.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.0dc1288655e3a4960691.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.12dfcc09966f4cc51f96.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.12dfcc09966f4cc51f96.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.1f00d12372850cc1496e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.1f00d12372850cc1496e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.21db25a19de5042525ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.21db25a19de5042525ae.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.21db51e918d3b2f8c272.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.21db51e918d3b2f8c272.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.25461c074b27039da861.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.25461c074b27039da861.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.2b8b5063409c4781d0db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.2b8b5063409c4781d0db.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.3971bb34250902c549f3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.3971bb34250902c549f3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.39cac679fbbfaeee86ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.39cac679fbbfaeee86ad.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.3c02312ed21c5de0bb32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.3c02312ed21c5de0bb32.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.488fdf123ce849fe0ccf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.488fdf123ce849fe0ccf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.52a605e5da131dd6b9c5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.52a605e5da131dd6b9c5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5340dc5ffc6e45defa54.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5340dc5ffc6e45defa54.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.541d0ce866e4e5218cf2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.541d0ce866e4e5218cf2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.591fff73b6dd3aca1c83.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.591fff73b6dd3aca1c83.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.59c962b90c8b1f744a97.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.59c962b90c8b1f744a97.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5adc854248128ade8467.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5adc854248128ade8467.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5b2b5b206216ed86fc5f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5b2b5b206216ed86fc5f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5ba40bcafec71fb6cca1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5ba40bcafec71fb6cca1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5cb0de984a5f21f00909.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5cb0de984a5f21f00909.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5d54e5905d7812d62dab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5d54e5905d7812d62dab.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5f780a1cdc0eb6c98f97.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.5f780a1cdc0eb6c98f97.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.65472647ab7f6e2d820a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.65472647ab7f6e2d820a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.67392cf1c0b24f0dfdd5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.67392cf1c0b24f0dfdd5.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.6892ffa5d4e04dc9e449.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.6892ffa5d4e04dc9e449.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.6a1f2b3096c341c361da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.6a1f2b3096c341c361da.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.6c382831c0fc0a1509f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.6c382831c0fc0a1509f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.76e6c6e5994357b2a65e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.76e6c6e5994357b2a65e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.789d0440a7e21fc99fce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.789d0440a7e21fc99fce.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.7a63623adadf4d8628bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.7a63623adadf4d8628bd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.7d4abcb8b5896af61713.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.7d4abcb8b5896af61713.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.8621d823b68ccdf5c12e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.8621d823b68ccdf5c12e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.895ea0627b74b0d587f2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.895ea0627b74b0d587f2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.903d8109975df35fe642.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.903d8109975df35fe642.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.922922657ee05b80ab89.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.922922657ee05b80ab89.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.9e50f54f2c20ae1425e6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.9e50f54f2c20ae1425e6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.9fe26ab696a2c0cba964.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.9fe26ab696a2c0cba964.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.a487c5d52573cbb89e15.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.a487c5d52573cbb89e15.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.a744612faf3beca57595.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.a744612faf3beca57595.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.abc7ec18b4ce242cc777.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.abc7ec18b4ce242cc777.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.ac2b9e8cd697d9f51570.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.ac2b9e8cd697d9f51570.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.ad1232cd55663294fd10.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.ad1232cd55663294fd10.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.b120f5a9738c1882e970.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.b120f5a9738c1882e970.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.b3e34966c29888e7700e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.b3e34966c29888e7700e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.b8f706d71caf07728706.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.b8f706d71caf07728706.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.bbb891b6f5f8ca6aa594.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.bbb891b6f5f8ca6aa594.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.bf9d0a3dff90bb19219e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.bf9d0a3dff90bb19219e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.c0a51f0e558996fa2f71.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.c0a51f0e558996fa2f71.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.c513f7c791f0c5fc5ef9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.c513f7c791f0c5fc5ef9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.d6f92d338dbc8940fd12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.d6f92d338dbc8940fd12.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.d8719610e2b0cbb1d993.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.d8719610e2b0cbb1d993.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.d9ef4b4704aca5fedb73.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.d9ef4b4704aca5fedb73.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.dd767cdb087d7c8b6e7c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.dd767cdb087d7c8b6e7c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.e0f5f28074237fa10575.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.e0f5f28074237fa10575.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.eca322b6dd1d90c2de34.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.eca322b6dd1d90c2de34.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f02c2b005a561d84dd05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f02c2b005a561d84dd05.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f0b875bdab36b4a2864b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f0b875bdab36b4a2864b.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f0c140150f80cd1712e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f0c140150f80cd1712e2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f4f79ca92e58a282a0e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f4f79ca92e58a282a0e3.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f88380cd44c02fd994f8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.f88380cd44c02fd994f8.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.ffa241238713d155dec1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/app.ffa241238713d155dec1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherMobile/js/title-management-correct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherMobile/js/title-management-correct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-addChoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-addChoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-addJudge.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-addJudge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct-detailed.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct-detailed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct-more.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct-more.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/WEB-INF/classes/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/WEB-INF/classes/ApplicationConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/error.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherMobile/js/title-management-correct.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherMobile/js/title-management-correct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-addChoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-addChoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-addJudge.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-addJudge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-correct-detailed.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-correct-detailed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-correct-more.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-correct-more.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-correct.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-correct.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-list.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/AnswerApp/teacherQuesManger/js/title-management-list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ApplicationConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApplicationConfig.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="user" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="quesphotos" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="answerapp_db" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="course" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/springConfig/ApplicationConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http</find>
+      <find>mafx</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>weizh</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/pc-teacher/title-management/title-management-addChoose.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/pc-teacher/title-management/title-management-addJudge.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/pc-teacher/title-management/title-management-correct.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/pc-teacher/title-management/title-management-correct-detailed.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/pc-teacher/title-management/title-management-list.js" />
+        <option value="$PROJECT_DIR$/src/main/Resources/mapper/QuesDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/Resources/mapper/AnswerDaoMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/error.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherMobile/js/title-management-correct.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/login.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-addChoose.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-addJudge.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct-detailed.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-correct-more.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/title-management-list.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/AnswerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/CourseHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/LoginReginsterHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/AnswerDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/CourseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/QuesDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/UserDaoInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/AnswerRecord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Chapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceQues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceRecordSummary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/CourseBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/JudgmentQues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/PhotosBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/RecordSummary.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Session.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/UserBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginAjaxReqFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/AnswerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/CourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/QuesServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/AnswerService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/CourseService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/QuesService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/springConfig/Interceptor/ProcessInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/springConfig/WebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/springConfig/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/QuesHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/springConfig/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\coding\mavenRepository\repository" />
+        <option name="mavenHome" value="C:/coding/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\coding\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="AnswerApp Maven Webapp" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1383" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answerapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="answerapp" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceImpl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="springConfig" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="springConfig" type="462c0819:PsiDirectoryNode" />
+              <item name="Interceptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="app.7dad06abc4cf4d356cb20c96520b592f.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="teacherMobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="teacherQuesManger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AnswerApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AnswerApp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="set b&#9;ACTION&#9;Images.SetBackgroundImage&#10;set back&#9;PSI&#9;JAVA://java.awt.Component#setBackground" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559549057937" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../一体化项目/AnswerApp" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\weizh\Desktop\tool\蓝旭内部服务器\项目\AnswerApp\src\main\webapp" />
+      <recent name="E:\ideaWorkSpace\AnswerApp\src\main\webapp" />
+      <recent name="E:\ideaWorkSpace\AnswerApp\src\main\webapp\teacherMobile" />
+      <recent name="E:\ideaWorkSpace\AnswerApp\src\main\webapp\teacherQuesManger" />
+      <recent name="E:\ideaWorkSpace\AnswerApp\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaWorkSpace\AnswerApp\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.answerAppServer">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnswerHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bluemsun.answerapp.controller.AnswerHandler" />
+      <module name="AnswerApp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bluemsun.answerapp.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChoiceQues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bluemsun.answerapp.entity.ChoiceQues" />
+      <module name="AnswerApp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bluemsun.answerapp.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuesHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bluemsun.answerapp.controller.QuesHandler" />
+      <module name="AnswerApp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bluemsun.answerapp.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="answerAppServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.16" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="AnswerApp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_AnswerApp" />
+        <option name="HTTP_PORT" value="8080" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53694" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AnswerApp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.AnswerHandler" />
+      <item itemvalue="Application.ChoiceQues" />
+      <item itemvalue="Application.QuesHandler" />
+      <item itemvalue="Tomcat Server.answerAppServer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuesHandler" />
+        <item itemvalue="Application.ChoiceQues" />
+        <item itemvalue="Application.AnswerHandler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb5bea77-7a5e-4700-8939-58a1f9f9be98" name="Default" comment="" />
+      <created>1539072631789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539072631789</updated>
+      <workItem from="1539072639339" duration="7815000" />
+      <workItem from="1539167448395" duration="2250000" />
+      <workItem from="1539183508254" duration="2660000" />
+      <workItem from="1539224597231" duration="5054000" />
+      <workItem from="1539233115635" duration="1261000" />
+      <workItem from="1539242548103" duration="622000" />
+      <workItem from="1539499318711" duration="17306000" />
+      <workItem from="1539563097783" duration="9934000" />
+      <workItem from="1539588865644" duration="3921000" />
+      <workItem from="1539648681501" duration="134000" />
+      <workItem from="1539757156882" duration="11653000" />
+      <workItem from="1539781703735" duration="123000" />
+      <workItem from="1539784150739" duration="594000" />
+      <workItem from="1539825445326" duration="6127000" />
+      <workItem from="1539849816895" duration="7560000" />
+      <workItem from="1540000011861" duration="6968000" />
+      <workItem from="1540109589186" duration="5005000" />
+      <workItem from="1540126454934" duration="197000" />
+      <workItem from="1540126795362" duration="114000" />
+      <workItem from="1540127089538" duration="67000" />
+      <workItem from="1540127284055" duration="232000" />
+      <workItem from="1540128956340" duration="1441000" />
+      <workItem from="1540195740877" duration="1578000" />
+      <workItem from="1540248439493" duration="9415000" />
+      <workItem from="1540280601840" duration="3566000" />
+      <workItem from="1540301306844" duration="126000" />
+      <workItem from="1540434824093" duration="4643000" />
+      <workItem from="1540448923415" duration="7885000" />
+      <workItem from="1540466298963" duration="9848000" />
+      <workItem from="1540537192978" duration="111000" />
+      <workItem from="1540541525741" duration="28000" />
+      <workItem from="1540545420784" duration="512000" />
+      <workItem from="1540560543697" duration="1926000" />
+      <workItem from="1540604067768" duration="1747000" />
+      <workItem from="1540685729695" duration="61000" />
+      <workItem from="1540729314050" duration="4985000" />
+      <workItem from="1540775190551" duration="4597000" />
+      <workItem from="1540800839479" duration="612000" />
+      <workItem from="1540802036116" duration="536000" />
+      <workItem from="1540820589328" duration="1552000" />
+      <workItem from="1540879668273" duration="1650000" />
+      <workItem from="1540968626961" duration="1295000" />
+      <workItem from="1541036055728" duration="5586000" />
+      <workItem from="1541059057700" duration="568000" />
+      <workItem from="1541061976911" duration="2575000" />
+      <workItem from="1541149309294" duration="87000" />
+      <workItem from="1541314635217" duration="2909000" />
+      <workItem from="1541379886001" duration="771000" />
+      <workItem from="1541402544734" duration="3239000" />
+      <workItem from="1541467635597" duration="206000" />
+      <workItem from="1541490748339" duration="914000" />
+      <workItem from="1541505927397" duration="67000" />
+      <workItem from="1541508895546" duration="304000" />
+      <workItem from="1541509373214" duration="4005000" />
+      <workItem from="1541571637646" duration="9392000" />
+      <workItem from="1541586582497" duration="613000" />
+      <workItem from="1541644175850" duration="2367000" />
+      <workItem from="1541665906857" duration="192000" />
+      <workItem from="1541666306090" duration="2809000" />
+      <workItem from="1543801479169" duration="2517000" />
+      <workItem from="1544773031805" duration="2346000" />
+      <workItem from="1544784764701" duration="454000" />
+      <workItem from="1545306546748" duration="36000" />
+      <workItem from="1559091813905" duration="1748000" />
+      <workItem from="1559106165044" duration="731000" />
+      <workItem from="1559107369093" duration="2141000" />
+      <workItem from="1559119941283" duration="865000" />
+      <workItem from="1559131087956" duration="76000" />
+      <workItem from="1559221383153" duration="2744000" />
+      <workItem from="1559291128636" duration="6921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="204894000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.04249292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27213115" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/AnswerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1559223674190" expanded="false" signature="2040:2056" ph="&lt;~&gt;" />
+            <marker date="1559223674190" expanded="false" signature="2262:2276" ph="&lt;~&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/AnswerDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/CourseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/QuesDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-627">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/AnswerRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1559223676056" expanded="false" signature="370:381" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="394:400" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="437:448" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="467:473" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="501:512" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="526:532" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="571:582" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="603:609" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="635:646" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="658:664" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="699:710" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="727:733" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="766:777" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="793:799" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="845:856" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="881:887" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="918:929" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="943:949" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="991:1002" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="1023:1029" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="1064:1075" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="1094:1100" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="1152:1163" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="1194:1200" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="1234:1245" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="1262:1268" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="1316:1327" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="1354:1360" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="1392:1403" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="1418:1424" ph=" }" />
+            <marker date="1559223676056" expanded="false" signature="1468:1479" ph=" { " />
+            <marker date="1559223676056" expanded="false" signature="1502:1508" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Chapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1559223676149" expanded="false" signature="213:224" ph=" { " />
+            <marker date="1559223676149" expanded="false" signature="241:247" ph=" }" />
+            <marker date="1559223676149" expanded="false" signature="292:303" ph=" { " />
+            <marker date="1559223676149" expanded="false" signature="330:336" ph=" }" />
+            <marker date="1559223676149" expanded="false" signature="372:383" ph=" { " />
+            <marker date="1559223676149" expanded="false" signature="402:408" ph=" }" />
+            <marker date="1559223676149" expanded="false" signature="460:471" ph=" { " />
+            <marker date="1559223676149" expanded="false" signature="502:508" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceQues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <marker date="1559223676550" expanded="false" signature="554:565" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="577:583" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="618:629" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="646:652" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="692:703" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="720:726" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="780:791" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="818:824" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="855:866" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="880:886" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="928:939" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="960:966" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1000:1011" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1031:1037" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1088:1099" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1132:1138" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1170:1181" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1200:1206" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1255:1266" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1297:1303" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1343:1354" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1377:1383" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1443:1454" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1493:1499" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1531:1542" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1557:1563" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1607:1618" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1641:1647" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1679:1690" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1705:1711" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1755:1766" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1789:1795" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1827:1838" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1853:1859" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1903:1914" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="1937:1943" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="1975:1986" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2001:2007" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="2051:2062" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2085:2091" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="2123:2134" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2151:2157" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="2203:2214" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2241:2247" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="2283:2294" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2313:2319" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="2371:2382" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2413:2419" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="2447:2458" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2472:2478" ph=" }" />
+            <marker date="1559223676550" expanded="false" signature="2517:2528" ph=" { " />
+            <marker date="1559223676550" expanded="false" signature="2549:2555" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/ChoiceRecordSummary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1559223674128" expanded="false" signature="279:290" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="304:310" ph=" }" />
+            <marker date="1559223674128" expanded="false" signature="349:360" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="381:387" ph=" }" />
+            <marker date="1559223674128" expanded="false" signature="415:426" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="440:446" ph=" }" />
+            <marker date="1559223674128" expanded="false" signature="485:496" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="517:523" ph=" }" />
+            <marker date="1559223674128" expanded="false" signature="551:562" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="576:582" ph=" }" />
+            <marker date="1559223674128" expanded="false" signature="621:632" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="653:659" ph=" }" />
+            <marker date="1559223674128" expanded="false" signature="687:698" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="712:718" ph=" }" />
+            <marker date="1559223674128" expanded="false" signature="757:768" ph=" { " />
+            <marker date="1559223674128" expanded="false" signature="789:795" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/PhotosBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1559223674772" expanded="false" signature="240:251" ph=" { " />
+            <marker date="1559223674772" expanded="false" signature="267:273" ph=" }" />
+            <marker date="1559223674772" expanded="false" signature="319:330" ph=" { " />
+            <marker date="1559223674772" expanded="false" signature="355:361" ph=" }" />
+            <marker date="1559223674772" expanded="false" signature="394:405" ph=" { " />
+            <marker date="1559223674772" expanded="false" signature="421:427" ph=" }" />
+            <marker date="1559223674772" expanded="false" signature="473:484" ph=" { " />
+            <marker date="1559223674772" expanded="false" signature="509:515" ph=" }" />
+            <marker date="1559223674772" expanded="false" signature="543:554" ph=" { " />
+            <marker date="1559223674772" expanded="false" signature="568:574" ph=" }" />
+            <marker date="1559223674772" expanded="false" signature="613:624" ph=" { " />
+            <marker date="1559223674772" expanded="false" signature="645:651" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/RecordSummary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1559223675850" expanded="false" signature="272:283" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="302:308" ph=" }" />
+            <marker date="1559223675850" expanded="false" signature="360:371" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="397:403" ph=" }" />
+            <marker date="1559223675850" expanded="false" signature="433:444" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="460:466" ph=" }" />
+            <marker date="1559223675850" expanded="false" signature="509:520" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="545:551" ph=" }" />
+            <marker date="1559223675850" expanded="false" signature="579:590" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="604:610" ph=" }" />
+            <marker date="1559223675850" expanded="false" signature="649:660" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="681:687" ph=" }" />
+            <marker date="1559223675850" expanded="false" signature="716:727" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="739:745" ph=" }" />
+            <marker date="1559223675850" expanded="false" signature="783:794" ph=" { " />
+            <marker date="1559223675850" expanded="false" signature="811:817" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/Session.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1559223675070" expanded="false" signature="213:224" ph=" { " />
+            <marker date="1559223675070" expanded="false" signature="241:247" ph=" }" />
+            <marker date="1559223675070" expanded="false" signature="292:303" ph=" { " />
+            <marker date="1559223675070" expanded="false" signature="330:336" ph=" }" />
+            <marker date="1559223675070" expanded="false" signature="372:383" ph=" { " />
+            <marker date="1559223675070" expanded="false" signature="402:408" ph=" }" />
+            <marker date="1559223675070" expanded="false" signature="460:471" ph=" { " />
+            <marker date="1559223675070" expanded="false" signature="502:508" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/UserBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <marker date="1559223674509" expanded="false" signature="369:380" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="396:402" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="445:456" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="481:487" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="515:526" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="540:546" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="585:596" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="617:623" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="656:667" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="683:689" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="735:746" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="771:777" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="810:821" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="837:843" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="889:900" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="925:931" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="964:975" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="991:997" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="1043:1054" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="1079:1085" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="1118:1129" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="1145:1151" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="1197:1208" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="1233:1239" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="1266:1277" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="1290:1296" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="1333:1344" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="1363:1369" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="1400:1411" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="1425:1431" ph=" }" />
+            <marker date="1559223674509" expanded="false" signature="1473:1484" ph=" { " />
+            <marker date="1559223674509" expanded="false" signature="1505:1511" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginAjaxReqFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/AnswerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1316">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <marker date="1559223675977" expanded="false" signature="1913:1921" ph="&lt;~&gt;" />
+            <marker date="1559223675977" expanded="false" signature="2366:2377" ph=" { " />
+            <marker date="1559223675977" expanded="false" signature="2419:2425" ph=" }" />
+            <marker date="1559223675977" expanded="false" signature="2912:2927" ph="&lt;~&gt;" />
+            <marker date="1559223675977" expanded="false" signature="2979:2994" ph="&lt;~&gt;" />
+            <marker date="1559223675977" expanded="false" signature="4580:4591" ph=" { " />
+            <marker date="1559223675977" expanded="false" signature="4633:4639" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/AnswerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/CourseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/QuesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/mapper/CourseDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1540439232208" expanded="true" signature="298:318" ph="SELECT * FRO... course" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/mapper/QuesDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/mapper/UserDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1540435957993" expanded="true" signature="293:330" ph="SELECT * fro... user" />
+            <marker date="1540435957993" expanded="true" signature="417:482" ph="SELECT * FRO... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherQuesManger/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherQuesManger/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2680">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/QuesHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2182">
+          <caret line="145" column="12" selection-start-line="145" selection-start-column="12" selection-end-line="145" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/QuesServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="115" column="29" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/CourseBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/CourseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/service/serviceImpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/entity/JudgmentQues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/dao/UserDaoInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/LoginReginsterHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/springConfig/Interceptor/ProcessInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/controller/CourseHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/app.46323c1031fe6e3231ee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/app.7dad06abc4cf4d356cb20c96520b592f.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12804" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherMobile/css/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/记录.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/css/app.7dad06abc4cf4d356cb20c96520b592f.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9988" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherMobile/demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2982" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="470" selection-start-column="470" selection-end-column="470" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bluemsun/answerapp/filter/SafeLoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/mapper/AnswerDaoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <marker date="1541041542918" expanded="true" signature="310:624" ph="SELECT DISTI... choiceques" />
+            <marker date="1541041542918" expanded="true" signature="721:1043" ph="SELECT DISTI... judgmentques" />
+            <marker date="1541041542918" expanded="true" signature="1149:1210" ph="SELECT relAn... choiceques" />
+            <marker date="1541041542918" expanded="true" signature="1265:1335" ph="SELECT judgR... judgmentques" />
+            <marker date="1541041542918" expanded="true" signature="1800:1966" ph="SELECT DISTI... answerrecord" />
+            <marker date="1541041542918" expanded="true" signature="2107:2310" ph="SELECT DISTI... answerrecord" />
+            <marker date="1541041542918" expanded="true" signature="2365:2578" ph="SELECT DISTI... answerrecord" />
+            <marker date="1541041542918" expanded="true" signature="2694:2893" ph="SELECT DISTI... answerrecord" />
+            <marker date="1541041542918" expanded="true" signature="2967:3040" ph="SELECT COUNT... answerrecord" />
+            <marker date="1541041542918" expanded="true" signature="3113:3206" ph="SELECT COUNT... answerrecord" />
+            <marker date="1541041542918" expanded="true" signature="3292:3499" ph="SELECT DISTI... choiceques" />
+            <marker date="1541041542918" expanded="true" signature="3585:3800" ph="SELECT DISTI... judgmentques" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/teacherQuesManger/html/title-management-addChoose.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/springConfig/WebAppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/springConfig/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/springConfig/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>AnswerApp:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|AnswerApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
